@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "大模型列表"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:49.262Z",
+    "original_repository": "wgwang/awesome-LLMs-In-China",
+    "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
+    "enhanced_repository": "enhansome/enhansome-LLMs-In-China",
+    "enhanced_repository_description": null,
+    "title": "中国大模型列表 Awesome LLMs In China with stars"
+  }
+}
