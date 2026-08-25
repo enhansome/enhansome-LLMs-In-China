@@ -171,7 +171,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24207
+            "stars": 24208
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59574
+            "stars": 59577
           }
         },
         {
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:54.329Z",
+    "last_updated": "2026-08-25T07:31:43.437Z",
     "original_repository": "wgwang/awesome-LLMs-In-China",
     "original_repository_id": 643696288,
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
