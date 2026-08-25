@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/wgwang/awesome-LLMs-In-China",
+          "title": "wgwang/awesome-LLMs-In-China",
           "description": null,
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wgwang/awesome-LLM-benchmarks",
+          "title": "wgwang/awesome-LLM-benchmarks",
           "description": null,
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wgwang/awesome-open-foundation-models",
+          "title": "wgwang/awesome-open-foundation-models",
           "description": null,
           "children": [],
           "repo_info": {
@@ -101,8 +101,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2",
-          "description": "智谱华章 清言 北京 通用 ✔ 有APP，开源模型ChatGLM3-6B, ChatGLM-6B和ChatGLM2-6B",
+          "title": "有APP，开源模型ChatGLM3-6B",
+          "description": ", ChatGLM-6B和ChatGLM2-6B 智谱华章 清言 北京 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,13 +111,13 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13657
+            "stars": 13656
           }
         },
         {
           "node_type": "item",
-          "title": "3",
-          "description": "百川智能 百川 北京 通用 ✔ 开源小模型baichuan-7B和Baichuan-13B，baichuan-2",
+          "title": "开源小模型baichuan-7B",
+          "description": "和Baichuan-13B，baichuan-2 百川智能 百川 北京 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "4",
-          "description": "阿里云 通义千问 浙江杭州 通用 ✔ 开源模型Qwen-1.8B,7B,14B,72B、Qwen-VL和Qwen-Audio",
+          "title": "开源模型Qwen-1.8B,7B,14B,72B",
+          "description": "、Qwen-VL和Qwen-Audio 阿里云 通义千问 浙江杭州 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,13 +141,13 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21638
+            "stars": 21641
           }
         },
         {
           "node_type": "item",
-          "title": "5",
-          "description": "上海人工智能实验室 书生 上海 通用 ✔ 开源模型书生·浦语-7B,20B",
+          "title": "开源模型书生·浦语-7B,20B",
+          "description": "上海人工智能实验室 书生 上海 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,8 +161,8 @@
         },
         {
           "node_type": "item",
-          "title": "7",
-          "description": "深度求索 Deepseek Coder 浙江杭州 代码 ✔",
+          "title": "Deepseek Coder",
+          "description": "深度求索 浙江杭州 代码 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -171,13 +171,13 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24206
+            "stars": 24207
           }
         },
         {
           "node_type": "item",
-          "title": "13",
-          "description": "复旦大学 MOSS 上海 科研 ✔ 试用需账号",
+          "title": "MOSS",
+          "description": "复旦大学 上海 科研 ✔ 试用需账号",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -191,8 +191,8 @@
         },
         {
           "node_type": "item",
-          "title": "14",
-          "description": "智源人工智能研究院 悟道·天鹰,悟道·EMU 北京 通用 ✔ 悟道3.0,视界视觉，AQUILA天鹰座，Aquila-7B,AquilaChat-7B,AquilaCode-7B-NV,AquilaCode-7B-TS,HuggingFace,EMU基于LLaMA",
+          "title": "悟道·天鹰",
+          "description": ",悟道·EMU 智源人工智能研究院 北京 通用 ✔ 悟道3.0,视界视觉，AQUILA天鹰座，Aquila-7B,AquilaChat-7B,AquilaCode-7B-NV,AquilaCode-7B-TS,HuggingFace,EMU基于LLaMA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,13 +201,13 @@
             "last_commit": "2026-07-13T03:53:45Z",
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3870
+            "stars": 3869
           }
         },
         {
           "node_type": "item",
-          "title": "15",
-          "description": "浙江大学&OpenKG KnowLM 浙江杭州 通用 ✔ 基于LLaMA和LLaMA2的知识增强的开源语言大模型",
+          "title": "KnowLM",
+          "description": "浙江大学&OpenKG 浙江杭州 通用 ✔ 基于LLaMA和LLaMA2的知识增强的开源语言大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
         },
         {
           "node_type": "item",
-          "title": "16",
-          "description": "面壁智能 CPM,CPM-Bee 北京 通用 ✔ 面壁智能,CPM-Bee-10B,OpenBMB",
+          "title": "CPM",
+          "description": ",CPM-Bee 面壁智能 北京 通用 ✔ 面壁智能,CPM-Bee-10B,OpenBMB",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "17",
-          "description": "元象科技 XVERSE-7B, XVERSE-13B, XVERSE-65B 广东深圳 通用 ✔",
+          "title": "XVERSE-7B",
+          "description": ", XVERSE-13B, XVERSE-65B 元象科技 广东深圳 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "20",
-          "description": "东北大学 TechGPT-2.0, TechGPT 辽宁沈阳 科研 ✔ TechGPT->BELLE->LLaMA，图谱构建和阅读理解问答",
+          "title": "TechGPT-2.0",
+          "description": ", TechGPT 东北大学 辽宁沈阳 科研 ✔ TechGPT->BELLE->LLaMA，图谱构建和阅读理解问答",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "22",
-          "description": "零一万物 Yi 北京 通用 ✔ 6B和34B开源模型",
+          "title": "Yi",
+          "description": "零一万物 北京 通用 ✔ 6B和34B开源模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,13 +276,13 @@
             "last_commit": "2024-11-27T09:25:57Z",
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7835
+            "stars": 7836
           }
         },
         {
           "node_type": "item",
-          "title": "23",
-          "description": "360 智脑,一见 北京 通用 ✔",
+          "title": "智脑",
+          "description": ",一见 360 北京 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "24",
-          "description": "VIVO BlueLM 广东东莞 通用 ✔ 开源7B模型",
+          "title": "BlueLM",
+          "description": "VIVO 广东东莞 通用 ✔ 开源7B模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "26",
-          "description": "北京大学信息工程学院 ChatLaw 北京 法律 ✔ ChatLaw-13B基于Ziya-LLaMA-13B-v1->LLaMA,ChatLaw-33B基于Anima33B->Guanaco->LLaMA",
+          "title": "ChatLaw",
+          "description": "北京大学信息工程学院 北京 法律 ✔ ChatLaw-13B基于Ziya-LLaMA-13B-v1->LLaMA,ChatLaw-33B基于Anima33B->Guanaco->LLaMA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -351,13 +351,13 @@
             "last_commit": "2025-01-04T15:29:26Z",
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7582
+            "stars": 7583
           }
         },
         {
           "node_type": "item",
-          "title": "27",
-          "description": "中国科学院计算技术研究所 百聆 北京 科研 ✔ 基于 LLaMA，权重Diff下载7B和13B,demo",
+          "title": "百聆",
+          "description": "中国科学院计算技术研究所 北京 科研 ✔ 基于 LLaMA，权重Diff下载7B和13B,demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "30",
-          "description": "昆仑万维 天工Skywork 北京 通用 ✔ 开源且可商用，无需单独申请，Skywork是由昆仑万维集团·天工团队开发的一系列大型模型，本次开源的模型有Skywork-13B-Base模型、Skywork-13B-Chat模型、Skywork-13B-Math模型和Skywork-13B-MM模型",
+          "title": "天工Skywork",
+          "description": "昆仑万维 北京 通用 ✔ 开源且可商用，无需单独申请，Skywork是由昆仑万维集团·天工团队开发的一系列大型模型，本次开源的模型有Skywork-13B-Base模型、Skywork-13B-Chat模型、Skywork-13B-Math模型和Skywork-13B-MM模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "31",
-          "description": "中国科学院成都计算机应用研究所 聚宝盆 四川成都 金融 ✔ 基于LLaMA的金融大模型",
+          "title": "聚宝盆",
+          "description": "中国科学院成都计算机应用研究所 四川成都 金融 ✔ 基于LLaMA的金融大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "32",
-          "description": "华南理工大学未来技术学院 灵心 广东广州 医学 ✔ 心理健康大模型灵心SoulChat",
+          "title": "灵心",
+          "description": "华南理工大学未来技术学院 广东广州 医学 ✔ 心理健康大模型灵心SoulChat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,8 +416,8 @@
         },
         {
           "node_type": "item",
-          "title": "33",
-          "description": "虎博科技 TigerBot 上海 金融 ✔ 基于BLOOM",
+          "title": "TigerBot",
+          "description": "虎博科技 上海 金融 ✔ 基于BLOOM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "35",
-          "description": "北京交通大学 致远 北京 交通运输 ✔ TransGPT・致远，基于LLaMA-7B",
+          "title": "致远",
+          "description": "北京交通大学 北京 交通运输 ✔ TransGPT・致远，基于LLaMA-7B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,7 +441,7 @@
             "last_commit": "2023-09-14T11:55:09Z",
             "owner": "DUOMO",
             "repo": "TransGPT",
-            "stars": 839
+            "stars": 840
           }
         },
         {
@@ -476,8 +476,8 @@
         },
         {
           "node_type": "item",
-          "title": "39",
-          "description": "上海科技大学 DoctorGLM 上海 医学 ✔ 医学大模型，论文",
+          "title": "DoctorGLM",
+          "description": "上海科技大学 上海 医学 ✔ 医学大模型，论文",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "40",
-          "description": "华东师范大学 EduChat 上海 教育 ✔ 基于Baichuan-13B的教学教育大模型",
+          "title": "EduChat",
+          "description": "华东师范大学 上海 教育 ✔ 基于Baichuan-13B的教学教育大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,13 +501,13 @@
             "last_commit": "2025-07-18T13:22:39Z",
             "owner": "ECNU-ICALK",
             "repo": "EduChat",
-            "stars": 964
+            "stars": 965
           }
         },
         {
           "node_type": "item",
-          "title": "41",
-          "description": "艾写科技 Anima 浙江杭州 营销 ✔ 基于Guanaco->基于LLaMA，使用QLoRA",
+          "title": "Anima",
+          "description": "艾写科技 浙江杭州 营销 ✔ 基于Guanaco->基于LLaMA，使用QLoRA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,8 +521,8 @@
         },
         {
           "node_type": "item",
-          "title": "42",
-          "description": "澳门理工大学 XrayGLM,IvyGPT 澳门 医疗 ✔ IvyGPT基于ChatGLM2，XrayGLM基于VisualGLM-6B",
+          "title": "XrayGLM",
+          "description": ",IvyGPT 澳门理工大学 澳门 医疗 ✔ IvyGPT基于ChatGLM2，XrayGLM基于VisualGLM-6B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,8 +536,8 @@
         },
         {
           "node_type": "item",
-          "title": "43",
-          "description": "北京语言大学 桃李 北京 教育 ✔ 基于LLaMA,北语+清华+东北、北京交大",
+          "title": "桃李",
+          "description": "北京语言大学 北京 教育 ✔ 基于LLaMA,北语+清华+东北、北京交大",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,8 +551,8 @@
         },
         {
           "node_type": "item",
-          "title": "44",
-          "description": "贝壳 BELLE 北京 垂直 ✔ 基于BLOOMZ或LLaMA的多个模型",
+          "title": "BELLE",
+          "description": "贝壳 北京 垂直 ✔ 基于BLOOMZ或LLaMA的多个模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,8 +566,8 @@
         },
         {
           "node_type": "item",
-          "title": "46",
-          "description": "北京大学信息工程学院 Chat-UniVi 北京 科研 ✔ 基于Vicuna(7B,13B)->Llama-2",
+          "title": "Chat-UniVi",
+          "description": "北京大学信息工程学院 北京 科研 ✔ 基于Vicuna(7B,13B)->Llama-2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,8 +581,8 @@
         },
         {
           "node_type": "item",
-          "title": "47",
-          "description": "港中文深圳 华佗，凤凰 广东深圳 医学 ✔ 香港中文大学（深圳）和深圳市大数据研究院，医学,Demo,华佗和凤凰都基于BLOOMZ",
+          "title": "华佗",
+          "description": "，凤凰 港中文深圳 广东深圳 医学 ✔ 香港中文大学（深圳）和深圳市大数据研究院，医学,Demo,华佗和凤凰都基于BLOOMZ",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -591,13 +591,13 @@
             "last_commit": "2024-12-16T20:21:17Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1321
+            "stars": 1322
           }
         },
         {
           "node_type": "item",
-          "title": "48",
-          "description": "香港科技大学 罗宾Robin 香港 科研 ✔ 基于LLaMA,港科大开源LMFlow",
+          "title": "基于LLaMA",
+          "description": ",港科大开源LMFlow 香港科技大学 罗宾Robin 香港 科研 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -611,8 +611,8 @@
         },
         {
           "node_type": "item",
-          "title": "51",
-          "description": "元语智能 ChatYuan 浙江杭州 通用 ✔",
+          "title": "ChatYuan",
+          "description": "元语智能 浙江杭州 通用 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,8 +686,8 @@
         },
         {
           "node_type": "item",
-          "title": "69",
-          "description": "北京大学知识计算实验室 CodeShell 北京 代码 ✔ CodeShell是北京大学知识计算实验室联合四川天府银行AI团队研发的多语言代码大模型基座",
+          "title": "CodeShell",
+          "description": "北京大学知识计算实验室 北京 代码 ✔ CodeShell是北京大学知识计算实验室联合四川天府银行AI团队研发的多语言代码大模型基座",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -711,7 +711,7 @@
             "last_commit": "2024-08-09T07:07:36Z",
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
-            "stars": 776
+            "stars": 777
           }
         },
         {
@@ -726,13 +726,13 @@
             "last_commit": "2024-08-09T07:07:36Z",
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
-            "stars": 776
+            "stars": 777
           }
         },
         {
           "node_type": "item",
-          "title": "71",
-          "description": "浙江大学 TableGPT 浙江杭州 科研 ✔ 无代码没公开模型权重",
+          "title": "TableGPT",
+          "description": "浙江大学 浙江杭州 科研 ✔ 无代码没公开模型权重",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -746,8 +746,8 @@
         },
         {
           "node_type": "item",
-          "title": "72",
-          "description": "浙江大学 智海-录问 浙江杭州 司法 ✔ 基于Baichuan-7B的智海-录问(wisdomInterrogatory)是由浙江大学、阿里巴巴达摩院以及华院计算三家单位共同设计研发的法律大模型",
+          "title": "智海-录问",
+          "description": "浙江大学 浙江杭州 司法 ✔ 基于Baichuan-7B的智海-录问(wisdomInterrogatory)是由浙江大学、阿里巴巴达摩院以及华院计算三家单位共同设计研发的法律大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,8 +761,8 @@
         },
         {
           "node_type": "item",
-          "title": "73",
-          "description": "浙江大学 智海-三乐 浙江杭州 教育 ✔ 基于Qwen-7B的智海-三乐是由浙江大学与高等教育出版社联合阿里云计算有限公司、华院计算等单位共同设计研发的教育大模型",
+          "title": "智海-三乐",
+          "description": "浙江大学 浙江杭州 教育 ✔ 基于Qwen-7B的智海-三乐是由浙江大学与高等教育出版社联合阿里云计算有限公司、华院计算等单位共同设计研发的教育大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -776,8 +776,8 @@
         },
         {
           "node_type": "item",
-          "title": "78",
-          "description": "中山大学 流萤系列 广东广州 通用 ✔ 微调了多个模型，如firefly-mixtral-8x7b、firefly-baichuan2-13b、Firefly-LLaMA2-Chinese等",
+          "title": "流萤",
+          "description": "系列 中山大学 广东广州 通用 ✔ 微调了多个模型，如firefly-mixtral-8x7b、firefly-baichuan2-13b、Firefly-LLaMA2-Chinese等",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -791,8 +791,8 @@
         },
         {
           "node_type": "item",
-          "title": "79",
-          "description": "香港中文大学 PointLLM 香港 通用 ✔ 港中文+上海AI实验室+浙大",
+          "title": "PointLLM",
+          "description": "香港中文大学 香港 通用 ✔ 港中文+上海AI实验室+浙大",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -801,13 +801,13 @@
             "last_commit": "2026-05-15T07:35:59Z",
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1050
+            "stars": 1051
           }
         },
         {
           "node_type": "item",
-          "title": "82",
-          "description": "清华大学 LexiLaw 北京 司法 ✔ 基于ChatGLM-6B微调",
+          "title": "LexiLaw",
+          "description": "清华大学 北京 司法 ✔ 基于ChatGLM-6B微调",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,8 +821,8 @@
         },
         {
           "node_type": "item",
-          "title": "84",
-          "description": "南京农业大学 荀子 江苏南京 文旅 ✔ 中国古代典籍跨语言知识库构建及应用研究，基于QWen-7B，开源",
+          "title": "荀子",
+          "description": "南京农业大学 江苏南京 文旅 ✔ 中国古代典籍跨语言知识库构建及应用研究，基于QWen-7B，开源",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -836,8 +836,8 @@
         },
         {
           "node_type": "item",
-          "title": "85",
-          "description": "山东大学 夫子•明察 山东济南 司法 ✔ 山东大学+浪潮云+中国政法大学，基于ChatGLM，无监督司法语料（各类判决文书、法律法规等）与有监督司法微调数据（包括法律问答、类案检索）训练而成",
+          "title": "夫子•明察",
+          "description": "山东大学 山东济南 司法 ✔ 山东大学+浪潮云+中国政法大学，基于ChatGLM，无监督司法语料（各类判决文书、法律法规等）与有监督司法微调数据（包括法律问答、类案检索）训练而成",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -851,8 +851,8 @@
         },
         {
           "node_type": "item",
-          "title": "92",
-          "description": "大连理工大学信息检索研究室 太令 辽宁大连 司法 ✔ 基于Qwen-7B",
+          "title": "太令",
+          "description": "大连理工大学信息检索研究室 辽宁大连 司法 ✔ 基于Qwen-7B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -866,8 +866,8 @@
         },
         {
           "node_type": "item",
-          "title": "95",
-          "description": "云起无垠 SecGPT 北京 信息安全 ✔ 基于的Baichuan-13B网络安全大模型，数据集",
+          "title": "SecGPT",
+          "description": "云起无垠 北京 信息安全 ✔ 基于的Baichuan-13B网络安全大模型，数据集",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -876,13 +876,13 @@
             "last_commit": "2025-06-25T10:03:37Z",
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3099
+            "stars": 3102
           }
         },
         {
           "node_type": "item",
-          "title": "97",
-          "description": "中国科学院计算机网络信息中心 MatChat 北京 材料 ✔ 基于LLaMA，论文MatChat: A Large Language Model and Application Service Platform for Materials Science",
+          "title": "MatChat",
+          "description": "中国科学院计算机网络信息中心 北京 材料 ✔ 基于LLaMA，论文MatChat: A Large Language Model and Application Service Platform for Materials Science",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -896,8 +896,8 @@
         },
         {
           "node_type": "item",
-          "title": "98",
-          "description": "北京交通大学计算机与信息技术学院 TCMLLM 北京 医疗 ✔ 基于ChatGLM-6B微调的中医药大模型",
+          "title": "TCMLLM",
+          "description": "北京交通大学计算机与信息技术学院 北京 医疗 ✔ 基于ChatGLM-6B微调的中医药大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,8 +911,8 @@
         },
         {
           "node_type": "item",
-          "title": "99",
-          "description": "蚂蚁集团 TestGPT-7B 浙江杭州 运维 ✔ 基于CodeLlama-7B测试域大模型，多语言测试用例生成、测试用例Assert补全",
+          "title": "TestGPT-7B",
+          "description": "蚂蚁集团 浙江杭州 运维 ✔ 基于CodeLlama-7B测试域大模型，多语言测试用例生成、测试用例Assert补全",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -926,8 +926,8 @@
         },
         {
           "node_type": "item",
-          "title": "100",
-          "description": "华南理工大学未来技术学院 扁鹊 广东广州 医疗 ✔ 扁鹊-1.0（BianQue-1.0）基于ChatYuan-large-v2，扁鹊-2.0（BianQue-2.0）基于ChatGLM-6B",
+          "title": "扁鹊",
+          "description": "华南理工大学未来技术学院 广东广州 医疗 ✔ 扁鹊-1.0（BianQue-1.0）基于ChatYuan-large-v2，扁鹊-2.0（BianQue-2.0）基于ChatGLM-6B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -941,8 +941,8 @@
         },
         {
           "node_type": "item",
-          "title": "109",
-          "description": "浙江大学 PromptProtein 浙江杭州 科研 ✔",
+          "title": "PromptProtein",
+          "description": "浙江大学 浙江杭州 科研 ✔",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -956,8 +956,8 @@
         },
         {
           "node_type": "item",
-          "title": "110",
-          "description": "东北大学数据挖掘实验室 PICA 辽宁沈阳 医疗 ✔ 基于ChatGLM2-6B的情感大模型",
+          "title": "PICA",
+          "description": "东北大学数据挖掘实验室 辽宁沈阳 医疗 ✔ 基于ChatGLM2-6B的情感大模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -971,8 +971,8 @@
         },
         {
           "node_type": "item",
-          "title": "129",
-          "description": "华东理工大学X-D Lab 漫谈 上海 医疗 ✔ MindChat(漫谈): 心理大模型，基于QWen-7B",
+          "title": "漫谈",
+          "description": "华东理工大学X-D Lab 上海 医疗 ✔ MindChat(漫谈): 心理大模型，基于QWen-7B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -986,8 +986,8 @@
         },
         {
           "node_type": "item",
-          "title": "130",
-          "description": "华东理工大学X-D Lab 孙思邈 上海 医疗 ✔ 基于baichuan-7B",
+          "title": "孙思邈",
+          "description": "华东理工大学X-D Lab 上海 医疗 ✔ 基于baichuan-7B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1001,8 +1001,8 @@
         },
         {
           "node_type": "item",
-          "title": "141",
-          "description": "复旦DISC DISC-FinLLM 上海 金融 ✔ 基于Baichuan-13B-Chat",
+          "title": "DISC-FinLLM",
+          "description": "复旦DISC 上海 金融 ✔ 基于Baichuan-13B-Chat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1016,8 +1016,8 @@
         },
         {
           "node_type": "item",
-          "title": "142",
-          "description": "蚂蚁集团 DevOps-Model 浙江杭州 运维 ✔ 基于Qwen的中文开发运维大模型（7B，14B）",
+          "title": "DevOps-Model",
+          "description": "蚂蚁集团 浙江杭州 运维 ✔ 基于Qwen的中文开发运维大模型（7B，14B）",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1031,8 +1031,8 @@
         },
         {
           "node_type": "item",
-          "title": "143",
-          "description": "中国科学技术大学 ChiMed-GPT 安徽合肥 医疗 ✔ 基于 Ziya-v2 的中文医疗大型语言模型",
+          "title": "ChiMed-GPT",
+          "description": "中国科学技术大学 安徽合肥 医疗 ✔ 基于 Ziya-v2 的中文医疗大型语言模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,8 +1046,8 @@
         },
         {
           "node_type": "item",
-          "title": "190",
-          "description": "华中科技大学 Monkey 湖北武汉 通用 ✔ 多模态，开源",
+          "title": "Monkey",
+          "description": "华中科技大学 湖北武汉 通用 ✔ 多模态，开源",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1061,8 +1061,8 @@
         },
         {
           "node_type": "item",
-          "title": "200",
-          "description": "香港科技大学 InvestLM 香港 金融 ✔ 基于LLaMA-65B",
+          "title": "InvestLM",
+          "description": "香港科技大学 香港 金融 ✔ 基于LLaMA-65B",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1076,8 +1076,8 @@
         },
         {
           "node_type": "item",
-          "title": "204",
-          "description": "上海交通大学 K2 上海 地球科学 ✔ Demo，GeoLLaMA，基于LLaMA，HuggingFace",
+          "title": "K2",
+          "description": "上海交通大学 上海 地球科学 ✔ Demo，GeoLLaMA，基于LLaMA，HuggingFace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1091,8 +1091,8 @@
         },
         {
           "node_type": "item",
-          "title": "227",
-          "description": "腾讯 ChartLlama 广东深圳 科研 ✔ 图表理解和生成任务的多模态大型语言模型",
+          "title": "ChartLlama",
+          "description": "腾讯 广东深圳 科研 ✔ 图表理解和生成任务的多模态大型语言模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1106,8 +1106,8 @@
         },
         {
           "node_type": "item",
-          "title": "228",
-          "description": "哈尔滨工业大学（深圳） 九天 广东深圳 科研 ✔ 九天JiuTian-LION的多模态大语言模型",
+          "title": "九天",
+          "description": "哈尔滨工业大学（深圳） 广东深圳 科研 ✔ 九天JiuTian-LION的多模态大语言模型",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,8 +1121,8 @@
         },
         {
           "node_type": "item",
-          "title": "244",
-          "description": "山西大学、山西农业大学 后稷 太原 农业 ✘ 基于Baichuan",
+          "title": "后稷",
+          "description": "山西大学、山西农业大学 太原 农业 ✘  基于Baichuan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1161,7 +1161,7 @@
             "last_commit": "2026-08-24T06:17:31Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26222
+            "stars": 26228
           }
         }
       ],
@@ -1182,7 +1182,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59572
+            "stars": 59574
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "last_commit": "2024-04-08T19:26:02Z",
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15685
+            "stars": 15684
           }
         }
       ],
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:52:51.693Z",
+    "last_updated": "2026-08-25T05:49:54.329Z",
     "original_repository": "wgwang/awesome-LLMs-In-China",
     "original_repository_id": 643696288,
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
