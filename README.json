@@ -15,7 +15,7 @@
             "last_commit": "2024-11-30T12:21:02Z",
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6470
+            "stars": 6471
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-11-30T12:21:02Z",
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6470
+            "stars": 6471
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13656
+            "stars": 13655
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21641
+            "stars": 21646
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7269
+            "stars": 7268
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24208
+            "stars": 24215
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12225
+            "stars": 12229
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2024-11-27T09:25:57Z",
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7836
+            "stars": 7835
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2024-12-30T02:23:31Z",
             "owner": "vivo-ai-lab",
             "repo": "BlueLM",
-            "stars": 944
+            "stars": 943
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-01-04T15:29:26Z",
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7583
+            "stars": 7587
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-07-18T13:22:39Z",
             "owner": "ECNU-ICALK",
             "repo": "EduChat",
-            "stars": 965
+            "stars": 966
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2024-08-01T14:11:10Z",
             "owner": "lyogavin",
             "repo": "Anima",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-10-16T11:38:59Z",
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8276
+            "stars": 8275
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-07-18T10:20:27Z",
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1622
+            "stars": 1621
           }
         },
         {
@@ -1158,10 +1158,10 @@
             "archived": false,
             "id": 749647889,
             "language": "Python",
-            "last_commit": "2026-08-24T06:17:31Z",
+            "last_commit": "2026-08-25T17:06:29Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26228
+            "stars": 26236
           }
         }
       ],
@@ -1182,7 +1182,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59577
+            "stars": 59579
           }
         },
         {
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:31:43.437Z",
+    "last_updated": "2026-08-26T07:33:43.140Z",
     "original_repository": "wgwang/awesome-LLMs-In-China",
     "original_repository_id": 643696288,
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
