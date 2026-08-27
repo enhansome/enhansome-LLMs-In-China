@@ -111,7 +111,7 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13656
+            "stars": 13657
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21658
+            "stars": 21659
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24218
+            "stars": 24217
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12231
+            "stars": 12232
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-07-18T13:22:39Z",
             "owner": "ECNU-ICALK",
             "repo": "EduChat",
-            "stars": 966
+            "stars": 968
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2023-10-25T17:43:45Z",
             "owner": "scutcyr",
             "repo": "BianQue",
-            "stars": 885
+            "stars": 886
           }
         },
         {
@@ -1161,7 +1161,7 @@
             "last_commit": "2026-08-26T09:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26243
+            "stars": 26244
           }
         }
       ],
@@ -1182,7 +1182,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59581
+            "stars": 59580
           }
         },
         {
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:30.810Z",
+    "last_updated": "2026-08-27T17:54:50.721Z",
     "original_repository_info": {
       "archived": false,
       "id": 643696288,
