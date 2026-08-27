@@ -111,7 +111,7 @@
             "last_commit": "2025-01-13T06:55:26Z",
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13655
+            "stars": 13656
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-07-18T14:23:01Z",
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5648
+            "stars": 5649
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21646
+            "stars": 21658
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7268
+            "stars": 7271
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24215
+            "stars": 24218
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12229
+            "stars": 12231
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2024-11-27T09:25:57Z",
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7835
+            "stars": 7836
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-01-04T15:29:26Z",
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7587
+            "stars": 7589
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2024-12-03T15:40:39Z",
             "owner": "BayLing-Models",
             "repo": "BayLing",
-            "stars": 315
+            "stars": 316
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2023-06-30T07:55:51Z",
             "owner": "jerry1993-tech",
             "repo": "Cornucopia-LLaMA-Fin-Chinese",
-            "stars": 658
+            "stars": 657
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2024-11-20T07:07:22Z",
             "owner": "WangRongsheng",
             "repo": "XrayGLM",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -786,7 +786,7 @@
             "last_commit": "2024-10-24T02:27:42Z",
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6653
+            "stars": 6654
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2025-07-30T06:24:22Z",
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 388
+            "stars": 390
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2025-06-25T10:03:37Z",
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3102
+            "stars": 3101
           }
         },
         {
@@ -1158,10 +1158,10 @@
             "archived": false,
             "id": 749647889,
             "language": "Python",
-            "last_commit": "2026-08-25T17:06:29Z",
+            "last_commit": "2026-08-26T09:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26236
+            "stars": 26243
           }
         }
       ],
@@ -1182,7 +1182,7 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59579
+            "stars": 59581
           }
         },
         {
@@ -1205,9 +1205,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:33:43.140Z",
-    "original_repository": "wgwang/awesome-LLMs-In-China",
-    "original_repository_id": 643696288,
+    "last_updated": "2026-08-27T11:48:30.810Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 643696288,
+      "language": null,
+      "last_commit": "2024-11-30T12:21:02Z",
+      "owner": "wgwang",
+      "repo": "awesome-LLMs-In-China",
+      "stars": 6471
+    },
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
     "enhanced_repository": "enhansome/enhansome-LLMs-In-China",
     "enhanced_repository_description": null,
