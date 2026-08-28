@@ -15,8 +15,9 @@
             "last_commit": "2024-11-30T12:21:02Z",
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6471
-          }
+            "stars": 6472
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "wgwang",
             "repo": "awesome-LLM-benchmarks",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "wgwang",
             "repo": "awesome-open-foundation-models",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-11-30T12:21:02Z",
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6471
-          }
+            "stars": 6472
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "wgwang",
             "repo": "awesome-LLM-benchmarks",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "wgwang",
             "repo": "awesome-open-foundation-models",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         }
       ],
       "title": "Overview"
@@ -112,7 +118,8 @@
             "owner": "zai-org",
             "repo": "ChatGLM3",
             "stars": 13657
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2024-07-18T14:23:01Z",
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5649
-          }
+            "stars": 5648
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-03-05T13:55:17Z",
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21659
-          }
+            "stars": 21671
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7271
-          }
+            "stars": 7272
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2025-11-11T06:44:56Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24217
-          }
+            "stars": 24223
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-05-27T13:16:14Z",
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12232
-          }
+            "stars": 12234
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
             "stars": 3869
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "zjunlp",
             "repo": "KnowLM",
             "stars": 1386
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "OpenBMB",
             "repo": "CPM-Bee",
             "stars": 2406
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "xverse-ai",
             "repo": "XVERSE-7B",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "neukg",
             "repo": "TechGPT-2.0",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2024-11-27T09:25:57Z",
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7836
-          }
+            "stars": 7835
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "360CVGroup",
             "repo": "SEEChat",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "vivo-ai-lab",
             "repo": "BlueLM",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "IEIT-Yuan",
             "repo": "Yuan-2.0",
             "stars": 687
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Shawn-IEITSystems",
             "repo": "Yuan-1.0",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -351,8 +373,9 @@
             "last_commit": "2025-01-04T15:29:26Z",
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7589
-          }
+            "stars": 7591
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "BayLing-Models",
             "repo": "BayLing",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "SkyworkAI",
             "repo": "Skywork",
             "stars": 1498
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -396,8 +421,9 @@
             "last_commit": "2023-06-30T07:55:51Z",
             "owner": "jerry1993-tech",
             "repo": "Cornucopia-LLaMA-Fin-Chinese",
-            "stars": 657
-          }
+            "stars": 656
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -411,8 +437,9 @@
             "last_commit": "2024-06-15T18:05:18Z",
             "owner": "scutcyr",
             "repo": "SoulChat",
-            "stars": 761
-          }
+            "stars": 762
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "TigerResearch",
             "repo": "TigerBot",
             "stars": 2259
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "DUOMO",
             "repo": "TransGPT",
             "stars": 840
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -456,8 +485,9 @@
             "last_commit": "2026-07-04T05:56:23Z",
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4986
-          }
+            "stars": 4988
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "SCIR-HI",
             "repo": "Med-ChatGLM",
             "stars": 1037
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "xionghonglin",
             "repo": "DoctorGLM",
             "stars": 835
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "ECNU-ICALK",
             "repo": "EduChat",
             "stars": 968
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "lyogavin",
             "repo": "Anima",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "WangRongsheng",
             "repo": "XrayGLM",
             "stars": 1082
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "blcuicall",
             "repo": "taoli",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "LianjiaTech",
             "repo": "BELLE",
             "stars": 8275
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "PKU-YuanGroup",
             "repo": "Chat-UniVi",
             "stars": 941
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -591,8 +629,9 @@
             "last_commit": "2024-12-16T20:21:17Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1322
-          }
+            "stars": 1323
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -606,8 +645,9 @@
             "last_commit": "2026-08-10T06:56:25Z",
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8484
-          }
+            "stars": 8485
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "clue-ai",
             "repo": "ChatYuan",
             "stars": 1863
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "wenge-research",
             "repo": "YAYI2",
             "stars": 2796
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "wenge-research",
             "repo": "YAYI",
             "stars": 2527
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "HIT-SCIR",
             "repo": "huozi",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "HIT-SCIR",
             "repo": "huozi",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -696,8 +741,9 @@
             "last_commit": "2024-07-18T10:20:27Z",
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1621
-          }
+            "stars": 1620
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "ZJU-M3",
             "repo": "TableGPT-techreport",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "zhihaiLLM",
             "repo": "wisdomInterrogatory",
             "stars": 550
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "zhihaiLLM",
             "repo": "wisdomBot",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "yangjianxin1",
             "repo": "Firefly",
             "stars": 6654
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "InternRobotics",
             "repo": "PointLLM",
             "stars": 1051
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "CSHaitao",
             "repo": "LexiLaw",
             "stars": 1041
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -831,8 +885,9 @@
             "last_commit": "2025-07-20T01:59:42Z",
             "owner": "Xunzi-LLM-of-Chinese-classics",
             "repo": "XunziALLM",
-            "stars": 435
-          }
+            "stars": 434
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -847,7 +902,8 @@
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -862,7 +918,8 @@
             "owner": "DUTIR-LegalIntelligence",
             "repo": "Tailing",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -877,7 +934,8 @@
             "owner": "Clouditera",
             "repo": "SecGPT",
             "stars": 3101
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -892,7 +950,8 @@
             "owner": "materialsCnicCas",
             "repo": "CASMatChat",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -906,8 +965,9 @@
             "last_commit": "2025-05-27T02:55:49Z",
             "owner": "2020MEAI",
             "repo": "TCMLLM",
-            "stars": 262
-          }
+            "stars": 263
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -921,8 +981,9 @@
             "last_commit": "2024-03-04T08:40:44Z",
             "owner": "codefuse-ai",
             "repo": "Test-Agent",
-            "stars": 719
-          }
+            "stars": 720
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -936,8 +997,9 @@
             "last_commit": "2023-10-25T17:43:45Z",
             "owner": "scutcyr",
             "repo": "BianQue",
-            "stars": 886
-          }
+            "stars": 887
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1014,8 @@
             "owner": "HICAI-ZJU",
             "repo": "PromptProtein",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1030,8 @@
             "owner": "NEU-DataMining",
             "repo": "PICA",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1046,8 @@
             "owner": "X-D-Lab",
             "repo": "MindChat",
             "stars": 718
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1062,8 @@
             "owner": "X-D-Lab",
             "repo": "Sunsimiao",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1011,8 +1077,9 @@
             "last_commit": "2023-11-01T16:09:31Z",
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 894
-          }
+            "stars": 895
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1027,7 +1094,8 @@
             "owner": "codefuse-ai",
             "repo": "CodeFuse-DevOps-Model",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1110,8 @@
             "owner": "synlp",
             "repo": "ChiMed-GPT",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1057,7 +1126,8 @@
             "owner": "Yuliang-Liu",
             "repo": "Monkey",
             "stars": 1951
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1072,7 +1142,8 @@
             "owner": "AbaciNLP",
             "repo": "InvestLM",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1158,8 @@
             "owner": "davendw49",
             "repo": "k2",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1174,8 @@
             "owner": "tingxueronghua",
             "repo": "ChartLlama-code",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1190,8 @@
             "owner": "JiuTian-VL",
             "repo": "JiuTian-LION",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1206,8 @@
             "owner": "zhiweihu1103",
             "repo": "AgriMa",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1222,8 @@
             "owner": "zhiweihu1103",
             "repo": "AgriAgent",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1161,8 +1237,9 @@
             "last_commit": "2026-08-26T09:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26244
-          }
+            "stars": 26251
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         }
       ],
       "title": "大模型列表"
@@ -1182,8 +1259,9 @@
             "last_commit": "2025-01-26T21:42:26Z",
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59580
-          }
+            "stars": 59584
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         },
         {
           "node_type": "item",
@@ -1198,14 +1276,15 @@
             "owner": "Stability-AI",
             "repo": "StableLM",
             "stars": 15684
-          }
+          },
+          "first_seen": "2026-08-28T19:01:34.032Z"
         }
       ],
       "title": "国外大模型"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:54:50.721Z",
+    "last_updated": "2026-08-28T19:01:34.032Z",
     "original_repository_info": {
       "archived": false,
       "id": 643696288,
@@ -1213,7 +1292,7 @@
       "last_commit": "2024-11-30T12:21:02Z",
       "owner": "wgwang",
       "repo": "awesome-LLMs-In-China",
-      "stars": 6471
+      "stars": 6472
     },
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
     "enhanced_repository": "enhansome/enhansome-LLMs-In-China",
