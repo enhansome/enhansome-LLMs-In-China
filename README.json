@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21681,
+            "stars": 21687,
             "topics": [
               "chinese",
               "flash-attention",
@@ -232,7 +232,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7276,
+            "stars": 7277,
             "topics": [
               "chatbot",
               "chinese",
@@ -264,7 +264,7 @@
             "open_issues": 172,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24231,
+            "stars": 24230,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -276,7 +276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An open-source tool-augmented conversational language model from Fudan University",
+            "description": "An open-source, tool-augmented conversational language model from Fudan University",
             "homepage": "https://txsun1997.github.io/blogs/moss.html",
             "id": 628296906,
             "language": "Python",
@@ -285,7 +285,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12236,
+            "stars": 12239,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -439,7 +439,7 @@
             "open_issues": 31,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7836,
+            "stars": 7837,
             "topics": [
               "large-language-models"
             ]
@@ -550,7 +550,7 @@
             "open_issues": 65,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7593,
+            "stars": 7595,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -737,7 +737,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4988,
+            "stars": 4989,
             "topics": [
               "aidoctor",
               "bloom",
@@ -976,7 +976,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1325,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1302,7 +1302,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6655,
+            "stars": 6656,
             "topics": [
               "alpaca",
               "aquila",
@@ -1378,7 +1378,7 @@
             "open_issues": 53,
             "owner": "CSHaitao",
             "repo": "LexiLaw",
-            "stars": 1042,
+            "stars": 1043,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3102,
+            "stars": 3103,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1562,7 +1562,7 @@
             "open_issues": 22,
             "owner": "scutcyr",
             "repo": "BianQue",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "chat-application",
               "chatbot",
@@ -1924,7 +1924,7 @@
             "open_issues": 58,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26267,
+            "stars": 26270,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1977,7 +1977,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15682,
+            "stars": 15681,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:28:55.352Z",
+    "last_updated": "2026-09-01T12:05:17.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
