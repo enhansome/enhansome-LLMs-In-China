@@ -204,7 +204,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21786,
+            "stars": 21793,
             "topics": [
               "chinese",
               "flash-attention",
@@ -232,7 +232,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7282,
+            "stars": 7280,
             "topics": [
               "chatbot",
               "chinese",
@@ -264,7 +264,7 @@
             "open_issues": 172,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24281,
+            "stars": 24277,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -285,7 +285,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12251,
+            "stars": 12252,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -313,7 +313,7 @@
             "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3870,
+            "stars": 3869,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -550,7 +550,7 @@
             "open_issues": 65,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7606,
+            "stars": 7607,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -737,7 +737,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4991,
+            "stars": 4992,
             "topics": [
               "aidoctor",
               "bloom",
@@ -1302,7 +1302,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6652,
+            "stars": 6651,
             "topics": [
               "alpaca",
               "aquila",
@@ -1811,7 +1811,7 @@
             "open_issues": 11,
             "owner": "davendw49",
             "repo": "k2",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "ai4science",
               "data-science",
@@ -1924,7 +1924,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26410,
+            "stars": 26420,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1953,10 +1953,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
-            "open_issues": 532,
+            "open_issues": 533,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59619,
+            "stars": 59617,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:37:16.981Z",
+    "last_updated": "2026-09-20T11:51:12.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
