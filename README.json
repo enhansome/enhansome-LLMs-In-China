@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6483,
+            "stars": 6482,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -82,7 +82,7 @@
             "open_issues": 19,
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6483,
+            "stars": 6482,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -151,7 +151,7 @@
             "open_issues": 35,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13648,
+            "stars": 13646,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -204,7 +204,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21805,
+            "stars": 21815,
             "topics": [
               "chinese",
               "flash-attention",
@@ -232,7 +232,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7280,
+            "stars": 7279,
             "topics": [
               "chatbot",
               "chinese",
@@ -264,7 +264,7 @@
             "open_issues": 172,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24284,
+            "stars": 24285,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -550,7 +550,7 @@
             "open_issues": 65,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7607,
+            "stars": 7608,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -663,7 +663,7 @@
             "open_issues": 16,
             "owner": "scutcyr",
             "repo": "SoulChat",
-            "stars": 764,
+            "stars": 766,
             "topics": [
               "chatbot",
               "conversational-ai",
@@ -769,7 +769,7 @@
             "open_issues": 31,
             "owner": "SCIR-HI",
             "repo": "Med-ChatGLM",
-            "stars": 1038,
+            "stars": 1039,
             "topics": [
               "chinese",
               "medical",
@@ -1302,7 +1302,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6651,
+            "stars": 6650,
             "topics": [
               "alpaca",
               "aquila",
@@ -1472,7 +1472,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3103,
+            "stars": 3104,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26431,
+            "stars": 26444,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1956,7 +1956,7 @@
             "open_issues": 533,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59618,
+            "stars": 59620,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T13:23:24.009Z",
+    "last_updated": "2026-09-22T12:04:37.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
@@ -1999,7 +1999,7 @@
       "open_issues": 19,
       "owner": "wgwang",
       "repo": "awesome-LLMs-In-China",
-      "stars": 6483,
+      "stars": 6482,
       "topics": []
     },
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
