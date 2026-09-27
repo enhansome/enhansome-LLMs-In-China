@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6484,
+            "stars": 6483,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -82,7 +82,7 @@
             "open_issues": 19,
             "owner": "wgwang",
             "repo": "awesome-LLMs-In-China",
-            "stars": 6484,
+            "stars": 6483,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -204,7 +204,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21861,
+            "stars": 21864,
             "topics": [
               "chinese",
               "flash-attention",
@@ -232,7 +232,7 @@
             "open_issues": 9,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7277,
+            "stars": 7276,
             "topics": [
               "chatbot",
               "chinese",
@@ -264,7 +264,7 @@
             "open_issues": 172,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24282,
+            "stars": 24283,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -313,7 +313,7 @@
             "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3869,
+            "stars": 3870,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1302,7 +1302,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6652,
+            "stars": 6651,
             "topics": [
               "alpaca",
               "aquila",
@@ -1399,7 +1399,7 @@
             "open_issues": 13,
             "owner": "Xunzi-LLM-of-Chinese-classics",
             "repo": "XunziALLM",
-            "stars": 439,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "chatglm-6b",
               "judicial",
@@ -1472,7 +1472,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3108,
+            "stars": 3107,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1634,7 +1634,7 @@
             "open_issues": 5,
             "owner": "X-D-Lab",
             "repo": "MindChat",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "baichuan-13b",
               "chatglm2-6b",
@@ -1840,7 +1840,7 @@
             "open_issues": 7,
             "owner": "tingxueronghua",
             "repo": "ChartLlama-code",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26461,
+            "stars": 26464,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1956,7 +1956,7 @@
             "open_issues": 534,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59621,
+            "stars": 59623,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:51:21.763Z",
+    "last_updated": "2026-09-27T12:30:23.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
@@ -1999,7 +1999,7 @@
       "open_issues": 19,
       "owner": "wgwang",
       "repo": "awesome-LLMs-In-China",
-      "stars": 6484,
+      "stars": 6483,
       "topics": []
     },
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
