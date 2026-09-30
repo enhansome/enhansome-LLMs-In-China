@@ -151,7 +151,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13646,
+            "stars": 13645,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -204,7 +204,7 @@
             "open_issues": 45,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21878,
+            "stars": 21880,
             "topics": [
               "chinese",
               "flash-attention",
@@ -285,7 +285,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12260,
+            "stars": 12261,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -439,7 +439,7 @@
             "open_issues": 32,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7832,
+            "stars": 7833,
             "topics": [
               "large-language-models"
             ]
@@ -550,7 +550,7 @@
             "open_issues": 65,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7613,
+            "stars": 7612,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -689,7 +689,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2263,
+            "stars": 2262,
             "topics": [
               "chinese",
               "data",
@@ -716,7 +716,7 @@
             "open_issues": 19,
             "owner": "DUOMO",
             "repo": "TransGPT",
-            "stars": 839,
+            "stars": 838,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -737,7 +737,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4996,
+            "stars": 4995,
             "topics": [
               "aidoctor",
               "bloom",
@@ -918,7 +918,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8269,
+            "stars": 8268,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -1158,7 +1158,7 @@
             "open_issues": 45,
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1620,
+            "stars": 1619,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1302,7 +1302,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6651,
+            "stars": 6653,
             "topics": [
               "alpaca",
               "aquila",
@@ -1378,7 +1378,7 @@
             "open_issues": 53,
             "owner": "CSHaitao",
             "repo": "LexiLaw",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3108,
+            "stars": 3111,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1562,7 +1562,7 @@
             "open_issues": 22,
             "owner": "scutcyr",
             "repo": "BianQue",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "chat-application",
               "chatbot",
@@ -1769,7 +1769,7 @@
             "open_issues": 20,
             "owner": "Yuliang-Liu",
             "repo": "Monkey",
-            "stars": 1954,
+            "stars": 1955,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26476,
+            "stars": 26481,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1956,7 +1956,7 @@
             "open_issues": 534,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59623,
+            "stars": 59621,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1977,7 +1977,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15671,
+            "stars": 15673,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:22:52.868Z",
+    "last_updated": "2026-09-30T13:02:56.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
