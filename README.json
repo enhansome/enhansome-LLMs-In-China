@@ -151,7 +151,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13645,
+            "stars": 13646,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -172,7 +172,7 @@
             "open_issues": 88,
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5650,
+            "stars": 5649,
             "topics": [
               "artificial-intelligence",
               "ceval",
@@ -201,7 +201,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 45,
+            "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
             "stars": 21880,
@@ -264,7 +264,7 @@
             "open_issues": 173,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24285,
+            "stars": 24287,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -285,7 +285,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12261,
+            "stars": 12262,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -547,10 +547,10 @@
             "language": null,
             "license": "AGPL-3.0",
             "last_commit": "2025-01-04T15:29:26Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7612,
+            "stars": 7614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -716,7 +716,7 @@
             "open_issues": 19,
             "owner": "DUOMO",
             "repo": "TransGPT",
-            "stars": 838,
+            "stars": 839,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -737,7 +737,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4995,
+            "stars": 4997,
             "topics": [
               "aidoctor",
               "bloom",
@@ -918,7 +918,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8268,
+            "stars": 8269,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -1047,7 +1047,7 @@
             "open_issues": 0,
             "owner": "wenge-research",
             "repo": "YAYI2",
-            "stars": 2796,
+            "stars": 2794,
             "topics": [
               "artificial-intelligence",
               "chat",
@@ -1076,7 +1076,7 @@
             "open_issues": 0,
             "owner": "wenge-research",
             "repo": "YAYI",
-            "stars": 2526,
+            "stars": 2524,
             "topics": [
               "bloom",
               "chat",
@@ -1420,7 +1420,7 @@
             "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "chatglm-6b",
               "judicial",
@@ -1769,7 +1769,7 @@
             "open_issues": 20,
             "owner": "Yuliang-Liu",
             "repo": "Monkey",
-            "stars": 1955,
+            "stars": 1956,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26481,
+            "stars": 26485,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:02:56.460Z",
+    "last_updated": "2026-10-01T13:57:04.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
