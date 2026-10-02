@@ -439,7 +439,7 @@
             "open_issues": 32,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7833,
+            "stars": 7832,
             "topics": [
               "large-language-models"
             ]
@@ -529,7 +529,7 @@
             "open_issues": 14,
             "owner": "Shawn-IEITSystems",
             "repo": "Yuan-1.0",
-            "stars": 590,
+            "stars": 589,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -550,7 +550,7 @@
             "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7614,
+            "stars": 7616,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -608,7 +608,7 @@
             "open_issues": 18,
             "owner": "SkyworkAI",
             "repo": "Skywork",
-            "stars": 1500,
+            "stars": 1501,
             "topics": [
               "llm"
             ]
@@ -976,7 +976,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1331,
+            "stars": 1332,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 13,
             "owner": "Xunzi-LLM-of-Chinese-classics",
             "repo": "XunziALLM",
-            "stars": 440,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1924,7 +1924,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26485,
+            "stars": 26489,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1956,7 +1956,7 @@
             "open_issues": 534,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59621,
+            "stars": 59622,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1977,7 +1977,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15673,
+            "stars": 15674,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:57:04.518Z",
+    "last_updated": "2026-10-02T13:14:19.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
