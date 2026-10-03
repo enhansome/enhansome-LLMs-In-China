@@ -5,29 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "wgwang/awesome-LLMs-In-China",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "中国大模型",
-            "homepage": null,
-            "id": 643696288,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2024-11-30T12:21:02Z",
-            "open_issues": 19,
-            "owner": "wgwang",
-            "repo": "awesome-LLMs-In-China",
-            "stars": 6485,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:34.032Z"
-        },
-        {
-          "node_type": "item",
           "title": "wgwang/awesome-LLM-benchmarks",
-          "description": null,
+          "description": "wgwang/awesome-LLM-benchmarks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +27,7 @@
         {
           "node_type": "item",
           "title": "wgwang/awesome-open-foundation-models",
-          "description": null,
+          "description": "wgwang/awesome-open-foundation-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -68,29 +47,8 @@
         },
         {
           "node_type": "item",
-          "title": "中国大模型列表： https://github.com/wgwang/awesome-LLMs-In-China",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "中国大模型",
-            "homepage": null,
-            "id": 643696288,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2024-11-30T12:21:02Z",
-            "open_issues": 19,
-            "owner": "wgwang",
-            "repo": "awesome-LLMs-In-China",
-            "stars": 6485,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:34.032Z"
-        },
-        {
-          "node_type": "item",
           "title": "大模型评测数据集： https://github.com/wgwang/awesome-LLM-benchmarks",
-          "description": null,
+          "description": "wgwang/awesome-LLM-benchmarks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +69,7 @@
         {
           "node_type": "item",
           "title": "开源开放基础大模型列表： https://github.com/wgwang/awesome-open-foundation-models",
-          "description": null,
+          "description": "wgwang/awesome-open-foundation-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -264,7 +222,7 @@
             "open_issues": 173,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24287,
+            "stars": 24288,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -285,7 +243,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12262,
+            "stars": 12263,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -310,7 +268,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-13T03:53:45Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
             "stars": 3870,
@@ -439,7 +397,7 @@
             "open_issues": 32,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7832,
+            "stars": 7831,
             "topics": [
               "large-language-models"
             ]
@@ -495,7 +453,7 @@
         {
           "node_type": "item",
           "title": "源2.0",
-          "description": null,
+          "description": "IEIT-Yuan/Yuan-2.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -508,7 +466,7 @@
             "open_issues": 36,
             "owner": "IEIT-Yuan",
             "repo": "Yuan-2.0",
-            "stars": 688,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -550,7 +508,7 @@
             "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7616,
+            "stars": 7615,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -608,7 +566,7 @@
             "open_issues": 18,
             "owner": "SkyworkAI",
             "repo": "Skywork",
-            "stars": 1501,
+            "stars": 1499,
             "topics": [
               "llm"
             ]
@@ -724,7 +682,7 @@
         {
           "node_type": "item",
           "title": "本草",
-          "description": null,
+          "description": "SCIR-HI/Huatuo-Llama-Med-Chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -918,7 +876,7 @@
             "open_issues": 106,
             "owner": "LianjiaTech",
             "repo": "BELLE",
-            "stars": 8269,
+            "stars": 8268,
             "topics": [
               "bloom",
               "chinese-nlp",
@@ -1034,7 +992,7 @@
         {
           "node_type": "item",
           "title": "雅意2.0",
-          "description": null,
+          "description": "wenge-research/YAYI2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1093,7 +1051,7 @@
         {
           "node_type": "item",
           "title": "活字",
-          "description": null,
+          "description": "HIT-SCIR/huozi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1119,7 +1077,7 @@
         {
           "node_type": "item",
           "title": "基于BLOOM-7B进行 SFT（1.0）和RLHF（2.0）的模型，RLHF数据集",
-          "description": null,
+          "description": "HIT-SCIR/huozi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1158,7 +1116,7 @@
             "open_issues": 45,
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1619,
+            "stars": 1618,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1166,7 +1124,7 @@
         {
           "node_type": "item",
           "title": "启真",
-          "description": null,
+          "description": "CMKRG/QiZhenGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1700,7 +1658,7 @@
             "open_issues": 22,
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 895,
+            "stars": 894,
             "topics": [
               "chain-of-retrieval",
               "financial-large-language-model",
@@ -1890,7 +1848,7 @@
         {
           "node_type": "item",
           "title": "稷丰",
-          "description": null,
+          "description": "zhiweihu1103/AgriAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1911,7 +1869,7 @@
         {
           "node_type": "item",
           "title": "基于MiniCPM-Llama3-V 2.5",
-          "description": null,
+          "description": "OpenBMB/MiniCPM-V",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1924,7 +1882,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26489,
+            "stars": 26490,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1956,7 +1914,7 @@
             "open_issues": 534,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59622,
+            "stars": 59620,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1977,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15674,
+            "stars": 15673,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1987,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:14:19.109Z",
+    "last_updated": "2026-10-03T04:28:25.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
