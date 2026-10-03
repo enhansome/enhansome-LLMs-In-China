@@ -162,7 +162,7 @@
             "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21880,
+            "stars": 21881,
             "topics": [
               "chinese",
               "flash-attention",
@@ -190,7 +190,7 @@
             "open_issues": 9,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7279,
+            "stars": 7278,
             "topics": [
               "chatbot",
               "chinese",
@@ -1840,7 +1840,7 @@
             "open_issues": 7,
             "owner": "zhiweihu1103",
             "repo": "AgriMa",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26490,
+            "stars": 26493,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1914,7 +1914,7 @@
             "open_issues": 534,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59620,
+            "stars": 59621,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:28:25.435Z",
+    "last_updated": "2026-10-03T12:04:37.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
