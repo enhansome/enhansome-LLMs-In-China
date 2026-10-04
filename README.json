@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-03T01:01:52Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "wgwang",
             "repo": "awesome-LLM-benchmarks",
             "stars": 169,
@@ -58,7 +58,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-03T01:01:52Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "wgwang",
             "repo": "awesome-LLM-benchmarks",
             "stars": 169,
@@ -159,10 +159,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 44,
+            "open_issues": 43,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21881,
+            "stars": 21884,
             "topics": [
               "chinese",
               "flash-attention",
@@ -271,7 +271,7 @@
             "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3870,
+            "stars": 3869,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -508,7 +508,7 @@
             "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7615,
+            "stars": 7614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -727,7 +727,7 @@
             "open_issues": 31,
             "owner": "SCIR-HI",
             "repo": "Med-ChatGLM",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "chinese",
               "medical",
@@ -908,7 +908,7 @@
             "open_issues": 20,
             "owner": "PKU-YuanGroup",
             "repo": "Chat-UniVi",
-            "stars": 944,
+            "stars": 943,
             "topics": [
               "image-understanding",
               "large-language-models",
@@ -1260,7 +1260,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6653,
+            "stars": 6654,
             "topics": [
               "alpaca",
               "aquila",
@@ -1706,7 +1706,7 @@
             "open_issues": 5,
             "owner": "synlp",
             "repo": "ChiMed-GPT",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26493,
+            "stars": 26494,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1914,7 +1914,7 @@
             "open_issues": 534,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59621,
+            "stars": 59616,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15673,
+            "stars": 15672,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:04:37.384Z",
+    "last_updated": "2026-10-04T12:52:56.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
