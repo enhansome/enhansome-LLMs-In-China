@@ -397,7 +397,7 @@
             "open_issues": 32,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7829,
+            "stars": 7830,
             "topics": [
               "large-language-models"
             ]
@@ -753,7 +753,7 @@
             "open_issues": 20,
             "owner": "xionghonglin",
             "repo": "DoctorGLM",
-            "stars": 832,
+            "stars": 831,
             "topics": [
               "chatglm-6b"
             ]
@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15672,
+            "stars": 15671,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:46.447Z",
+    "last_updated": "2026-10-06T13:39:41.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
