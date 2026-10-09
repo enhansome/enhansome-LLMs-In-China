@@ -109,7 +109,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13640,
+            "stars": 13639,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -159,10 +159,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 46,
+            "open_issues": 44,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21896,
+            "stars": 21893,
             "topics": [
               "chinese",
               "flash-attention",
@@ -190,7 +190,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7278,
+            "stars": 7277,
             "topics": [
               "chatbot",
               "chinese",
@@ -222,7 +222,7 @@
             "open_issues": 173,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24296,
+            "stars": 24293,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -243,7 +243,7 @@
             "open_issues": 243,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12263,
+            "stars": 12262,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -397,7 +397,7 @@
             "open_issues": 32,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7835,
+            "stars": 7833,
             "topics": [
               "large-language-models"
             ]
@@ -955,7 +955,7 @@
             "open_issues": 87,
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8483,
+            "stars": 8482,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -1336,7 +1336,7 @@
             "open_issues": 53,
             "owner": "CSHaitao",
             "repo": "LexiLaw",
-            "stars": 1045,
+            "stars": 1046,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1430,7 +1430,7 @@
             "open_issues": 52,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3112,
+            "stars": 3113,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 9,
             "owner": "codefuse-ai",
             "repo": "Test-Agent",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "developer-tools",
               "software-quality-tool",
@@ -1727,7 +1727,7 @@
             "open_issues": 20,
             "owner": "Yuliang-Liu",
             "repo": "Monkey",
-            "stars": 1955,
+            "stars": 1954,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 59,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26507,
+            "stars": 26520,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:04:41.659Z",
+    "last_updated": "2026-10-09T13:50:05.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
