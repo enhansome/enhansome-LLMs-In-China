@@ -109,7 +109,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13635,
+            "stars": 13636,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -130,7 +130,7 @@
             "open_issues": 88,
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5647,
+            "stars": 5649,
             "topics": [
               "artificial-intelligence",
               "ceval",
@@ -162,7 +162,7 @@
             "open_issues": 41,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21904,
+            "stars": 21908,
             "topics": [
               "chinese",
               "flash-attention",
@@ -222,7 +222,7 @@
             "open_issues": 173,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24295,
+            "stars": 24296,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -271,7 +271,7 @@
             "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3868,
+            "stars": 3870,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -334,7 +334,7 @@
             "open_issues": 52,
             "owner": "OpenBMB",
             "repo": "CPM-Bee",
-            "stars": 2407,
+            "stars": 2408,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -397,7 +397,7 @@
             "open_issues": 32,
             "owner": "01-ai",
             "repo": "Yi",
-            "stars": 7833,
+            "stars": 7834,
             "topics": [
               "large-language-models"
             ]
@@ -487,7 +487,7 @@
             "open_issues": 14,
             "owner": "Shawn-IEITSystems",
             "repo": "Yuan-1.0",
-            "stars": 589,
+            "stars": 588,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -508,7 +508,7 @@
             "open_issues": 65,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7615,
+            "stars": 7616,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -674,7 +674,7 @@
             "open_issues": 19,
             "owner": "DUOMO",
             "repo": "TransGPT",
-            "stars": 839,
+            "stars": 838,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -727,7 +727,7 @@
             "open_issues": 31,
             "owner": "SCIR-HI",
             "repo": "Med-ChatGLM",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "chinese",
               "medical",
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "codefuse-ai",
             "repo": "CodeFuse-DevOps-Model",
-            "stars": 507,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1873,16 +1873,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+            "description": "See, hear, and interact on your local devices.",
             "homepage": null,
             "id": 749647889,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T14:43:57Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-13T12:50:03Z",
+            "open_issues": 60,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26541,
+            "stars": 26636,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1911,10 +1911,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
-            "open_issues": 536,
+            "open_issues": 535,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59627,
+            "stars": 59629,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15665,
+            "stars": 15666,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:10:34.518Z",
+    "last_updated": "2026-10-13T14:36:51.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
