@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-03T01:01:52Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "wgwang",
             "repo": "awesome-LLM-benchmarks",
             "stars": 170,
@@ -58,7 +58,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-03T01:01:52Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "wgwang",
             "repo": "awesome-LLM-benchmarks",
             "stars": 170,
@@ -109,7 +109,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13637,
+            "stars": 13635,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -162,7 +162,7 @@
             "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21951,
+            "stars": 21958,
             "topics": [
               "chinese",
               "flash-attention",
@@ -222,7 +222,7 @@
             "open_issues": 177,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24320,
+            "stars": 24325,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -243,7 +243,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12304,
+            "stars": 12308,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -271,7 +271,7 @@
             "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3869,
+            "stars": 3868,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -442,7 +442,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-12-30T02:23:31Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "vivo-ai-lab",
             "repo": "BlueLM",
             "stars": 944,
@@ -505,10 +505,10 @@
             "language": null,
             "license": "AGPL-3.0",
             "last_commit": "2025-01-04T15:29:26Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7628,
+            "stars": 7627,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -695,7 +695,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 5003,
+            "stars": 5002,
             "topics": [
               "aidoctor",
               "bloom",
@@ -727,7 +727,7 @@
             "open_issues": 31,
             "owner": "SCIR-HI",
             "repo": "Med-ChatGLM",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "chinese",
               "medical",
@@ -827,7 +827,7 @@
             "open_issues": 28,
             "owner": "WangRongsheng",
             "repo": "XrayGLM",
-            "stars": 1087,
+            "stars": 1086,
             "topics": [
               "large-language-models",
               "llms",
@@ -1116,7 +1116,7 @@
             "open_issues": 45,
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1616,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1260,7 +1260,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6644,
+            "stars": 6643,
             "topics": [
               "alpaca",
               "aquila",
@@ -1336,7 +1336,7 @@
             "open_issues": 53,
             "owner": "CSHaitao",
             "repo": "LexiLaw",
-            "stars": 1049,
+            "stars": 1050,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1378,7 +1378,7 @@
             "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 397,
+            "stars": 396,
             "topics": [
               "chatglm-6b",
               "judicial",
@@ -1427,10 +1427,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-06-25T10:03:37Z",
-            "open_issues": 52,
+            "open_issues": 49,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3124,
+            "stars": 3123,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 22,
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 897,
+            "stars": 896,
             "topics": [
               "chain-of-retrieval",
               "financial-large-language-model",
@@ -1882,7 +1882,7 @@
             "open_issues": 64,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26978,
+            "stars": 26981,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1914,7 +1914,7 @@
             "open_issues": 537,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59630,
+            "stars": 59627,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T13:37:22.615Z",
+    "last_updated": "2026-10-27T12:43:46.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
@@ -1957,7 +1957,7 @@
       "open_issues": 18,
       "owner": "wgwang",
       "repo": "awesome-LLMs-In-China",
-      "stars": 6487,
+      "stars": 6488,
       "topics": []
     },
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
