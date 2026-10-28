@@ -130,7 +130,7 @@
             "open_issues": 88,
             "owner": "baichuan-inc",
             "repo": "Baichuan-7B",
-            "stars": 5648,
+            "stars": 5647,
             "topics": [
               "artificial-intelligence",
               "ceval",
@@ -159,10 +159,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 38,
+            "open_issues": 37,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21958,
+            "stars": 21966,
             "topics": [
               "chinese",
               "flash-attention",
@@ -187,10 +187,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-10-30T00:35:43Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7278,
+            "stars": 7279,
             "topics": [
               "chatbot",
               "chinese",
@@ -219,10 +219,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-11-11T06:44:56Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24325,
+            "stars": 24328,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -243,7 +243,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12308,
+            "stars": 12311,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -508,7 +508,7 @@
             "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7627,
+            "stars": 7626,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -934,7 +934,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1334,
+            "stars": 1335,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -952,7 +952,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-10T06:56:25Z",
-            "open_issues": 87,
+            "open_issues": 86,
             "owner": "OptimalScale",
             "repo": "LMFlow",
             "stars": 8482,
@@ -1878,11 +1878,11 @@
             "id": 749647889,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T07:19:26Z",
+            "last_commit": "2026-10-28T01:31:15Z",
             "open_issues": 64,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26981,
+            "stars": 26996,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1914,7 +1914,7 @@
             "open_issues": 537,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59627,
+            "stars": 59628,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1935,7 +1935,7 @@
             "open_issues": 27,
             "owner": "Stability-AI",
             "repo": "StableLM",
-            "stars": 15656,
+            "stars": 15653,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:43:46.505Z",
+    "last_updated": "2026-10-28T13:34:52.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
@@ -1957,7 +1957,7 @@
       "open_issues": 18,
       "owner": "wgwang",
       "repo": "awesome-LLMs-In-China",
-      "stars": 6488,
+      "stars": 6489,
       "topics": []
     },
     "original_repository_sha": "f2a1119ca2dc01c9c3585dd49a5983fea3efecf5",
