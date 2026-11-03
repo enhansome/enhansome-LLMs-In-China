@@ -162,7 +162,7 @@
             "open_issues": 38,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 21989,
+            "stars": 21995,
             "topics": [
               "chinese",
               "flash-attention",
@@ -190,7 +190,7 @@
             "open_issues": 9,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7280,
+            "stars": 7281,
             "topics": [
               "chatbot",
               "chinese",
@@ -222,7 +222,7 @@
             "open_issues": 178,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24336,
+            "stars": 24345,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -243,7 +243,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12331,
+            "stars": 12335,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -271,7 +271,7 @@
             "open_issues": 25,
             "owner": "FlagAI-Open",
             "repo": "FlagAI",
-            "stars": 3868,
+            "stars": 3867,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -695,7 +695,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4999,
+            "stars": 5000,
             "topics": [
               "aidoctor",
               "bloom",
@@ -1005,7 +1005,7 @@
             "open_issues": 0,
             "owner": "wenge-research",
             "repo": "YAYI2",
-            "stars": 2796,
+            "stars": 2797,
             "topics": [
               "artificial-intelligence",
               "chat",
@@ -1034,7 +1034,7 @@
             "open_issues": 0,
             "owner": "wenge-research",
             "repo": "YAYI",
-            "stars": 2525,
+            "stars": 2526,
             "topics": [
               "bloom",
               "chat",
@@ -1116,7 +1116,7 @@
             "open_issues": 45,
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1615,
+            "stars": 1614,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1260,7 +1260,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6644,
+            "stars": 6645,
             "topics": [
               "alpaca",
               "aquila",
@@ -1302,7 +1302,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1061,
+            "stars": 1062,
             "topics": [
               "3d",
               "chatbot",
@@ -1430,7 +1430,7 @@
             "open_issues": 49,
             "owner": "Clouditera",
             "repo": "SecGPT",
-            "stars": 3128,
+            "stars": 3130,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 64,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 27051,
+            "stars": 27064,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:36:19.334Z",
+    "last_updated": "2026-11-03T14:41:06.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
@@ -1954,7 +1954,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2024-11-30T12:21:02Z",
-      "open_issues": 19,
+      "open_issues": 18,
       "owner": "wgwang",
       "repo": "awesome-LLMs-In-China",
       "stars": 6488,
