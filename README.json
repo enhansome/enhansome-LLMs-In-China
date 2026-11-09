@@ -162,7 +162,7 @@
             "open_issues": 40,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22016,
+            "stars": 22019,
             "topics": [
               "chinese",
               "flash-attention",
@@ -222,7 +222,7 @@
             "open_issues": 178,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24359,
+            "stars": 24365,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -243,7 +243,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12349,
+            "stars": 12352,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -417,7 +417,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-05-17T03:02:47Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "360CVGroup",
             "repo": "SEEChat",
             "stars": 102,
@@ -508,7 +508,7 @@
             "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7631,
+            "stars": 7630,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -873,7 +873,7 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2024-10-16T11:38:59Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "LianjiaTech",
             "repo": "BELLE",
             "stars": 8261,
@@ -1116,7 +1116,7 @@
             "open_issues": 45,
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1614,
+            "stars": 1613,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1302,7 +1302,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1063,
+            "stars": 1064,
             "topics": [
               "3d",
               "chatbot",
@@ -1378,7 +1378,7 @@
             "open_issues": 15,
             "owner": "irlab-sdu",
             "repo": "fuzi.mingcha",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "chatglm-6b",
               "judicial",
@@ -1493,7 +1493,7 @@
             "open_issues": 9,
             "owner": "codefuse-ai",
             "repo": "Test-Agent",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "developer-tools",
               "software-quality-tool",
@@ -1658,7 +1658,7 @@
             "open_issues": 22,
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 896,
+            "stars": 897,
             "topics": [
               "chain-of-retrieval",
               "financial-large-language-model",
@@ -1878,11 +1878,11 @@
             "id": 749647889,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T08:59:45Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-09T07:37:30Z",
+            "open_issues": 65,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 27090,
+            "stars": 27114,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:54:13.852Z",
+    "last_updated": "2026-11-09T16:54:09.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
