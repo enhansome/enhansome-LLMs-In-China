@@ -109,7 +109,7 @@
             "open_issues": 36,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13632,
+            "stars": 13628,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -159,10 +159,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-05T13:55:17Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22032,
+            "stars": 22026,
             "topics": [
               "chinese",
               "flash-attention",
@@ -222,7 +222,7 @@
             "open_issues": 178,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder",
-            "stars": 24367,
+            "stars": 24368,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -243,7 +243,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12367,
+            "stars": 12366,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -292,7 +292,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "KnowLM",
-            "stars": 1385,
+            "stars": 1384,
             "topics": [
               "bilingual",
               "chinese",
@@ -1116,7 +1116,7 @@
             "open_issues": 45,
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1614,
+            "stars": 1613,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1260,7 +1260,7 @@
             "open_issues": 211,
             "owner": "yangjianxin1",
             "repo": "Firefly",
-            "stars": 6643,
+            "stars": 6640,
             "topics": [
               "alpaca",
               "aquila",
@@ -1472,7 +1472,7 @@
             "open_issues": 9,
             "owner": "2020MEAI",
             "repo": "TCMLLM",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 22,
             "owner": "FudanDISC",
             "repo": "DISC-FinLLM",
-            "stars": 898,
+            "stars": 899,
             "topics": [
               "chain-of-retrieval",
               "financial-large-language-model",
@@ -1727,7 +1727,7 @@
             "open_issues": 20,
             "owner": "Yuliang-Liu",
             "repo": "Monkey",
-            "stars": 1953,
+            "stars": 1954,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 66,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 27144,
+            "stars": 27150,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1914,7 +1914,7 @@
             "open_issues": 538,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59625,
+            "stars": 59623,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:56:28.999Z",
+    "last_updated": "2026-11-14T13:49:20.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
