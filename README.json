@@ -109,7 +109,7 @@
             "open_issues": 37,
             "owner": "zai-org",
             "repo": "ChatGLM3",
-            "stars": 13629,
+            "stars": 13627,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -162,7 +162,7 @@
             "open_issues": 39,
             "owner": "QwenLM",
             "repo": "Qwen",
-            "stars": 22069,
+            "stars": 22073,
             "topics": [
               "chinese",
               "flash-attention",
@@ -190,7 +190,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7276,
+            "stars": 7275,
             "topics": [
               "chatbot",
               "chinese",
@@ -243,7 +243,7 @@
             "open_issues": 244,
             "owner": "OpenMOSS",
             "repo": "MOSS",
-            "stars": 12387,
+            "stars": 12388,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -292,7 +292,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "KnowLM",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "bilingual",
               "chinese",
@@ -445,7 +445,7 @@
             "open_issues": 19,
             "owner": "vivo-ai-lab",
             "repo": "BlueLM",
-            "stars": 944,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -508,7 +508,7 @@
             "open_issues": 66,
             "owner": "PKU-YuanGroup",
             "repo": "ChatLaw",
-            "stars": 7633,
+            "stars": 7635,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -647,7 +647,7 @@
             "open_issues": 45,
             "owner": "TigerResearch",
             "repo": "TigerBot",
-            "stars": 2257,
+            "stars": 2258,
             "topics": [
               "chinese",
               "data",
@@ -1137,7 +1137,7 @@
             "open_issues": 8,
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
-            "stars": 785,
+            "stars": 784,
             "topics": [
               "alpaca",
               "chatgpt",
@@ -1167,7 +1167,7 @@
             "open_issues": 8,
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
-            "stars": 785,
+            "stars": 784,
             "topics": [
               "alpaca",
               "chatgpt",
@@ -1300,7 +1300,7 @@
             "license": null,
             "last_commit": "2026-05-15T07:35:59Z",
             "open_issues": 9,
-            "owner": "InternRobotics",
+            "owner": "Sage-PhysicalAI",
             "repo": "PointLLM",
             "stars": 1065,
             "topics": [
@@ -1685,7 +1685,7 @@
             "open_issues": 1,
             "owner": "codefuse-ai",
             "repo": "CodeFuse-DevOps-Model",
-            "stars": 507,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1861,7 +1861,7 @@
             "open_issues": 2,
             "owner": "zhiweihu1103",
             "repo": "AgriAgent",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1882,7 +1882,7 @@
             "open_issues": 66,
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 27180,
+            "stars": 27183,
             "topics": [
               "minicpm",
               "minicpm-o",
@@ -1911,10 +1911,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-01-26T21:42:26Z",
-            "open_issues": 537,
+            "open_issues": 536,
             "owner": "meta-llama",
             "repo": "llama",
-            "stars": 59648,
+            "stars": 59649,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:34.032Z"
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:55:18.876Z",
+    "last_updated": "2026-11-23T18:46:51.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "中国大模型",
